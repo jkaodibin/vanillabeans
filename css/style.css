@@ -636,7 +636,7 @@ a:focus {
 }
 
 .client_section .client_container {
-  background-image: url(../images/client-bg.png);
+  background:#a04120;
   background-size: 90% 100%;
   background-position: bottom right;
   background-repeat: no-repeat;
